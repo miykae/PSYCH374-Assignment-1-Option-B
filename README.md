@@ -1,7 +1,7 @@
 Please download the entire folder!!! 
 Run index.html (open it on firefox browser for example)
 
-Steps to download:
+Steps to run:
 1. Go to "<> Code"
 2. Click "Download zip"
 3. Unzip the entire file
